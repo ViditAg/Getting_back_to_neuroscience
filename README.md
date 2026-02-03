@@ -4,6 +4,14 @@ This repository contains a comprehensive roadmap and strategic plans for transit
 
 ## 📋 Documents
 
+### 🚀 **START HERE:** [Quick Start Guide](QUICK_START_GUIDE.md)
+**Your actionable 30-day plan:**
+- Week-by-week breakdown of essential tasks
+- Daily schedule templates
+- Immediate action items
+- Code examples to get started
+- Troubleshooting common issues
+
 ### 1. [Neuromorphic Computing Transition Roadmap](NEUROMORPHIC_TRANSITION_ROADMAP.md)
 **A complete 36-month strategic plan covering:**
 - Phase 1: Foundation Building (Months 0-6)
